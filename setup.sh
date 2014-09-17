@@ -22,7 +22,8 @@
 #OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #SOFTWARE.
 
-
+# reference to future changes
+# http://stackoverflow.com/questions/12473291/how-to-get-the-directory-where-shell-script-resides
 
 
 
